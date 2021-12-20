@@ -1,0 +1,23 @@
+C:\Users\griijalva\Documents\tutoriales\GenerarCodigos\GenerarCodigos\bin\Debug\GenerarCodigos.exe.config
+C:\Users\griijalva\Documents\tutoriales\GenerarCodigos\GenerarCodigos\bin\Debug\GenerarCodigos.exe
+C:\Users\griijalva\Documents\tutoriales\GenerarCodigos\GenerarCodigos\bin\Debug\GenerarCodigos.pdb
+C:\Users\griijalva\Documents\tutoriales\GenerarCodigos\GenerarCodigos\bin\Debug\GenerarCodigos.xml
+C:\Users\griijalva\Documents\tutoriales\GenerarCodigos\GenerarCodigos\bin\Debug\itextsharp.dll
+C:\Users\griijalva\Documents\tutoriales\GenerarCodigos\GenerarCodigos\obj\Debug\GenerarCodigos.vbprojResolveAssemblyReference.cache
+C:\Users\griijalva\Documents\tutoriales\GenerarCodigos\GenerarCodigos\obj\Debug\GenerarCodigos.Form1.resources
+C:\Users\griijalva\Documents\tutoriales\GenerarCodigos\GenerarCodigos\obj\Debug\GenerarCodigos.Resources.resources
+C:\Users\griijalva\Documents\tutoriales\GenerarCodigos\GenerarCodigos\obj\Debug\GenerarCodigos.vbproj.GenerateResource.Cache
+C:\Users\griijalva\Documents\tutoriales\GenerarCodigos\GenerarCodigos\obj\Debug\GenerarCodigos.exe
+C:\Users\griijalva\Documents\tutoriales\GenerarCodigos\GenerarCodigos\obj\Debug\GenerarCodigos.xml
+C:\Users\griijalva\Documents\tutoriales\GenerarCodigos\GenerarCodigos\obj\Debug\GenerarCodigos.pdb
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\bin\Debug\GenerarCodigos.exe.config
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\obj\Debug\GenerarCodigos.exe
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\obj\Debug\GenerarCodigos.xml
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\obj\Debug\GenerarCodigos.pdb
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\bin\Debug\GenerarCodigos.exe
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\bin\Debug\GenerarCodigos.pdb
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\bin\Debug\GenerarCodigos.xml
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\obj\Debug\GenerarCodigos.vbprojResolveAssemblyReference.cache
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\obj\Debug\GenerarCodigos.Form1.resources
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\obj\Debug\GenerarCodigos.Resources.resources
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\obj\Debug\GenerarCodigos.vbproj.GenerateResource.Cache
